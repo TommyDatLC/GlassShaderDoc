@@ -2,10 +2,6 @@
   "index": "Introduction",
   "another": "No Where",
   "advanced": "Advanced (B Folder)",
-  "getting_start":"Getting Start",
-  "about": {
-    "title": "About",
-    "type": "page"
-  }
+  "getting_start":"Getting Start"
   
 }
